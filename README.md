@@ -1,8 +1,4 @@
-## MtechZilla Interview 2nd Assignment
-
 # GitHub User Search
-
-This is my submission for the second assignment as part of the interview process with MtechZilla.
 This project is a simple web application that allows you to search for GitHub users and view their public information.
 
 ## Features
@@ -51,7 +47,3 @@ GET - https://api.github.com/users/{username}
 ## Author
 
 Rajkumar Khatua
-
-## Acknowledgements
-
-This project was assigned as an interview assignment by MtechZilla.
